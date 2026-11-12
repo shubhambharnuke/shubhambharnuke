@@ -1,6 +1,7 @@
 # 💫 About Me:
 ### Hi, I'm Shubham 👋<br><br>AI & Data Science student at VIT Pune, learning in public.<br><br>📚 Daily practice: [DSA_101](https://github.com/shubhambharnuke/DSA_101) — DSA patterns & solutions in C++, 50-day streak<br>🌐 Learning log: [WebDev_101](https://github.com/shubhambharnuke/WebDev_101) — notes, snippets & projects as I learn web dev<br>📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shubhambharnuke)<br>🧩 [114 problems solved on LeetCode](https://leetcode.com/u/shubhambharnuke/
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhambharnuke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharnukeshubham062@gmail.com) 
 
